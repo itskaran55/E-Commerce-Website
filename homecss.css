@@ -1,0 +1,128 @@
+body
+{
+    background-color: antiquewhite;
+}
+.v1
+{
+    height: 178px;
+    border: 1px solid black;
+}
+.v2
+{
+    height: 240px;
+    border: 1px solid black; 
+    margin-top: 5px;   
+}
+.i1
+{
+    height: 160px;
+    margin-left: 10px;
+}
+.i2
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.i3
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.i4
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.i5
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.i6
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.i7
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.p1
+{
+    height: 160px;
+    margin-left: 10px;
+}
+.p2
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.p3
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.p4
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.p5
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.p6
+{
+    height: 160px;
+    margin-left: 77px;
+}
+.p7
+{
+    height: 160px;
+    margin-left: 37px;
+}
+.a1,.w1
+{
+    height: 160px;
+    margin-left: 10px;
+}
+.a2,.w2
+{
+    height: 160px;
+    margin-left: 95px;
+}
+.a3,.w3
+{
+    height: 160px;
+    margin-left: 95px;
+}
+.a4,.w4
+{
+    height: 160px;
+    margin-left: 95px;
+}
+.a5,.w5
+{
+    height: 160px;
+    margin-left: 95px;
+}
+.a6,.w6
+{
+    height: 160px;
+    margin-left: 95px;
+}
+.w7
+{
+    height: 160px;
+    margin-left: 37px;
+}
+  a:hover
+  {
+    border: 1px dotted aliceblue;
+  }
+  h2
+  {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
